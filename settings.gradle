@@ -1,0 +1,2 @@
+rootProject.name='latLong_googleMapas'
+include ':app'
